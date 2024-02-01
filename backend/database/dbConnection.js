@@ -6,9 +6,9 @@ export const dbConnection = () => {
       dbName: "Hungry-Lotus",
     })
     .then(() => {
-      console.log("Connected to the database successfully!");
+      console.log("Connected to the database!");
     })
     .catch((err) => {
-      console.log(`An error occured while connecting to the database! ${err}`);
+      console.log(`An error occurred while connecting to the database: ${err}`);
     });
 };
