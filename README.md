@@ -1,21 +1,21 @@
 # Hungry Lotus
 
-PROBLEM: I have an avid passion for futurism and the technological singularity. Most people only see the doom and gloom with the future, whereas I see utopia.
+PROBLEM: A local Asian restaurant that I've been going to since I was a kid wanted a website built for their business.
 
 
-SOLUTION: I created a store of the future with items that would give a glimpse into it and bring hope and optimism:
+SOLUTION: I took the contract and made them a website based on their specifications, keeping in close touch with the owner and iterating based on feedback:
 
-|| An online shopping store app ||
+|| A beautiful website for their Asian Restaurant ||
 
 **Link to project:**
 
-[Hungry Lotus](<link to live site>)
+[Hungry Lotus](https://hungry-lotus.vercel.app/)
 
-![App Logo](https://drive.google.com/uc?export=view&id=1EiOX3p_ZB7YrVpRwNDz9pb03Ffa-hWMR) ![App Screenshot](<link to google drive site screenshot>)
+![App Logo](https://drive.google.com/uc?export=view&id=1EiOX3p_ZB7YrVpRwNDz9pb03Ffa-hWMR) ![App Screenshot](https://drive.google.com/uc?export=view&id=1G8ENPSv09Lld_Ap_wKoVNaZNfHOxIMi4)
 
 ## How It's Made:
 
-**Tech used:** MERN Stack
+**Tech used:** MERN Stack + Vercel
 
 -One of my freelance projects that I made for a business, for their restaurant website, based on their preferences and feedback.
 
@@ -25,8 +25,12 @@ SOLUTION: I created a store of the future with items that would give a glimpse i
 
 -Add online ordering experience, instead of just a display sight for the restaurant with contact info to order.
 
+-Integrate the testimonials, since 3 of them are already in the files, but not part of the page, and an additional feature that allows users to leave them(with authentication to prevent bad actors).
+
 ## Lessons Learned:
 
 -New libraries for UI design
 
 -With client projects, you have to wipe any personal preference and override it with the client's preference.
+
+-How to set-up a mono-repo and deploy both the frontend and backend separately on Vercel
