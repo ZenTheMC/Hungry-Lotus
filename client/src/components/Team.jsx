@@ -6,11 +6,11 @@ const Team = () => {
     <section className="team" id="team">
       <div className="container">
         <div className="heading_section">
-          <h1 className="heading">OUR TEAM</h1>
+          <h1 className="heading">MEET OUR CHEFS</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae
-            fugit dicta, ipsum impedit quam laboriosam quas doloremque quia
-            perferendis laborum.
+            All of our chefs are world acclaimed and hold multiple michellan stars.
+            They have honed their craft for decades and were young prodigies that
+            traveled here from Asia.
           </p>
         </div>
         <div className="team_container">

@@ -10,16 +10,12 @@ const About = () => {
           <div className="banner">
             <div className="top">
               <h1 className="heading">ABOUT US</h1>
-              <p>The only thing we're serious about is food.</p>
+              <p>Experience a culinary journey of Asian cuisines.</p>
             </div>
             <p className="mid">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Provident possimus optio adipisci dolores impedit illum iusto
-              perferendis, laudantium quod accusamus consequuntur consectetur,
-              tempore nulla error iure reiciendis dolorem assumenda.
-              Necessitatibus fugit asperiores totam rem esse exercitationem
-              iusto ipsum qui dolore ex, accusantium repellat mollitia
-              repellendus.
+              Hungry Lotus is a dearly beloved local restaurant in Queens, New York, deep in the heart of flushing, one of the most dense Asian cultures in America.
+              Our mission is to embody tradition, passion, and deliver the most authentic Asian food experience to our customers. We strive to bring a taste of
+              Asia to the mouths of New Yorkers. Whether you're a New York local or visiting from abroad, we implore you to check us out. You won't regret it! 
             </p>
             <Link to={"/"}>
               Explore Menu{" "}
