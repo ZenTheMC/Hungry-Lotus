@@ -11,7 +11,7 @@ SOLUTION: I took the contract and made them a website based on their specificati
 
 [Hungry Lotus](https://hungry-lotus.vercel.app/)
 
-![App Logo](https://drive.google.com/uc?export=view&id=1EiOX3p_ZB7YrVpRwNDz9pb03Ffa-hWMR) ![App Screenshot](https://drive.google.com/uc?export=view&id=1G8ENPSv09Lld_Ap_wKoVNaZNfHOxIMi4)
+![App Logo](https://drive.google.com/uc?export=view&id=1EiOX3p_ZB7YrVpRwNDz9pb03Ffa-hWMR) ![App Screenshot](https://drive.google.com/uc?export=view&id=1FRpNtJWNqKy_ct74_lwM67GVySrvJ-R2)
 
 ## How It's Made:
 
